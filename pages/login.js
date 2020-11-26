@@ -56,7 +56,7 @@ const Login = ({ login }) => {
           onFinish={loginOnClick}
         >
           <Form.Item style={{ textAlign: 'center' }}>
-            <h1>课程管理助手</h1>
+            <h1>Course Management Assistant</h1>
           </Form.Item>
 
           <Form.Item>
